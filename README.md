@@ -20,3 +20,9 @@ npm install
 
 # 개발 서버 실행
 npm run dev
+
+## License
+
+This project is based on [CoreUI Free Vue Admin Template](https://github.com/coreui/coreui-free-vue-admin-template) and is licensed under the [MIT License](./LICENSE).
+
+Original copyright © 2025 creativeLabs Łukasz Holeczek.
