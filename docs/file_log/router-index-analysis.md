@@ -195,6 +195,8 @@ export default router
 ## 7. 예시
 
 1) 일반적인 프로젝트 구조 예시
+
+    ```plaintext
     - Vue            
             src/
         ├── components/
@@ -216,7 +218,7 @@ export default router
         │   └── index.jsx        ← React Router 설정
         ├── App.jsx
         └── main.jsx
-
+    ```
     * 즉, Vue든 React든 router/ 폴더 따로 관리하는 게 유지보수와 협업에 훨씬 유리하다
 
 2) 응용
